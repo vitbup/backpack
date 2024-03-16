@@ -12,6 +12,9 @@ _Description: Auto Buy/Sell on Backpack, run code on browser's console_
 ----------------------------
 **Steps to run:**
 1. Create account: [Backpack](https://backpack.exchange/refer/wenser)
-2. Open file: [backpack-v1.js](https://github.com/vitbup/backpack/blob/main/backpack-v1.js)
-3. Copy and paste to your browser's console
-4. Run.
+2. Open either of the following files:
+  - [backpack-v1.js](https://github.com/vitbup/backpack/blob/main/backpack-v1.js)
+  - [backpack-v2.js](https://github.com/vitbup/backpack/blob/main/backpack-v2.js)
+  - [backpack-v3.js](https://github.com/vitbup/backpack/blob/main/backpack-v3.js)
+4. Copy and paste to your browser's console
+5. Run.
